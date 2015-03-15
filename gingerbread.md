@@ -4,7 +4,11 @@ title: Gingerbread
 recipe-attribution: HungryJenny
 recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
+<<<<<<< HEAD
 Makes about 15 small cookies. I am the main gh-branch changing this file.
+=======
+Makes about 15 small cookies. How small?
+>>>>>>> bbttrr-questions
 
 ## Ingredients
 
