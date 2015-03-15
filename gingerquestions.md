@@ -11,17 +11,9 @@ Why ginger and not chocolate chip?
 
 I am posing these questions from the questions branch, locally.
 
-## Ingredients
+## This post is being developed in a separate branch
 
-* 175g plain flour
-* 90g brown sugar
-* 50g unsalted butter, diced, at room temperature
-* 2 tbsp golden syrup
-* 1 egg, beaten
-* 1 tsp ground ginger
-* 1 tsp cinnamon
-* 1 tsp bicarbonate of soda
-* Icing sugar to dust
+Yes.
 
 ## Method
 
